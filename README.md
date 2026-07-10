@@ -27,7 +27,7 @@ const dhairya = {
 | Project | What it does | Built with | Status |
 |---------|--------------|------------|--------|
 | **[LaunchFolio](https://launchfolio.tech)** | AI resume & portfolio builder — fill a form, get a polished site + one-click PDF | Node.js · Cloudflare Pages · D1 | 🟢 **Live** |
-| **[Community Hero](https://github.com/dhairyakumar018/Community__Hero)** | AI civic platform — report local issues, auto-routed to the right municipal desk, real-time maps | TypeScript · AI routing | 🛠️ Building |
+| **[Community Hero](https://github.com/dhairyakumar018/Community__Hero)** | AI civic platform — report local issues, auto-routed to the right municipal desk, real-time maps | TypeScript · AI routing | ✅ Done |
 | **[VisionTrack](https://github.com/dhairyakumar018/CodeAlpha_VisionTrack)** | Real-time object detection & tracking — YOLOv8 + Deep SORT with a 3D dashboard and CSV export | Python · Flask · OpenCV · Three.js | ✅ Done |
 | **Fire Detection System** | Arduino + IR flame sensors, ~95% detection accuracy, buzzer + LED alerts | C++ · Arduino Uno | ✅ Works (tested carefully) |
 
