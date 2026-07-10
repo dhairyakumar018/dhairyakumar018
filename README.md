@@ -29,7 +29,9 @@ const dhairya = {
 | **[LaunchFolio](https://launchfolio.tech)** | AI resume & portfolio builder — fill a form, get a polished site + one-click PDF | Node.js · Cloudflare Pages · D1 | 🟢 **Live** |
 | **[Community Hero](https://github.com/dhairyakumar018/Community__Hero)** | AI civic platform — report local issues, auto-routed to the right municipal desk, real-time maps | TypeScript · AI routing | ✅ Done |
 | **[VisionTrack](https://github.com/dhairyakumar018/CodeAlpha_VisionTrack)** | Real-time object detection & tracking — YOLOv8 + Deep SORT with a 3D dashboard and CSV export | Python · Flask · OpenCV · Three.js | ✅ Done |
+| **[LexiFlux](https://github.com/dhairyakumar018/CodeAlpha_Language_Translation_Tool)** | AI translation suite — auto language detection, native-accent text-to-speech, translation history | React · TypeScript · Express · Gemini API | ✅ Done |
 | **Fire Detection System** | Arduino + IR flame sensors, ~95% detection accuracy, buzzer + LED alerts | C++ · Arduino Uno | ✅ Works (tested carefully) |
+| **[AXiS](https://github.com/dhairyakumar018/AXiS)** | An AI "operating layer" — persistent memory, vision, voice, IoT hooks. The big one. | Electron · FastAPI · Ollama · LangChain | 🧭 Designing |
 
 ## 🧰 Toolbox
 
