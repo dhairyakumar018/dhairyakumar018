@@ -5,7 +5,7 @@
 **First-year CSE student who'd rather ship a real product than finish another tutorial.**
 
 [![LaunchFolio](https://img.shields.io/badge/launchfolio.tech-LIVE-2ea44f?style=for-the-badge&logo=rocket&logoColor=white)](https://launchfolio.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhairya--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhairya--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-kumar-a77b2b35b)
 [![Email](https://img.shields.io/badge/Email-gdhairya29-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdhairya29@gmail.com)
 
 </div>
@@ -17,7 +17,7 @@ const dhairya = {
   education: "B.Tech CSE @ NIET · 2025–2029 · CGPA 8.5",
   builds: ["web apps", "Android apps", "things with wires and sensors"],
   proudestShip: "launchfolio.tech — live on a real domain, with real users",
-  currentQuest: "Android with Jetpack Compose",
+  currentQuest: "convincing Android that a web dev can be trusted 📱 (Jetpack Compose)",
   funFact: "my Arduino can spot a fire before you can say 'is something burning?' 🔥",
 };
 ```
@@ -44,7 +44,6 @@ const dhairya = {
 ## 🎯 Currently
 
 - 📱 Deep in **Android with Jetpack Compose** — Google Android Basics certified
-- ✨ Shortlisted for **Google Gemini Student Ambassador 2026**
 - 🏆 Built and battled at **Innovate X NIET Hackathon 2026**
 - 📊 Completed the **Deloitte data analytics job simulation** (Forage)
 
@@ -53,12 +52,12 @@ const dhairya = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhairyakumar018&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhairyakumar018&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dhairyakumar018&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhairyakumar018&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyakumar018&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyakumar018&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=6" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhairyakumar018&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhairyakumar018&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=6" alt="Top languages">
 </picture>
 
 <picture>
@@ -68,15 +67,15 @@ const dhairya = {
 
 </div>
 
-## 🐍 The snake eats my commits
+## 🕹️ Pac-Man eats my commits
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyakumar018/dhairyakumar018/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/dhairyakumar018/dhairyakumar018/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyakumar018/dhairyakumar018/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/dhairyakumar018/dhairyakumar018/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph animation">
 </picture>
 
-<sub>⚡ This README updates itself — the snake feeds daily via GitHub Actions.</sub>
+<sub>⚡ This README updates itself — Pac-Man feeds daily via GitHub Actions.</sub>
 
 </div>
