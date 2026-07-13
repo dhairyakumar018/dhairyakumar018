@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhairya+%F0%9F%91%8B;I+ship+products%2C+not+just+repos;Full-stack+%C2%B7+AI+%C2%B7+Android+%C2%B7+Arduino" alt="Hi, I'm Dhairya — I ship products, not just repos" />
 
-**First-year CSE student who'd rather ship a real product than finish another tutorial.**
+**Second-year CSE student who'd rather ship a real product than finish another tutorial.**
 
 [![LaunchFolio](https://img.shields.io/badge/launchfolio.tech-LIVE-2ea44f?style=for-the-badge&logo=rocket&logoColor=white)](https://launchfolio.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhairya--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-kumar-a77b2b35b)
@@ -14,7 +14,7 @@
 
 ```js
 const dhairya = {
-  education: "B.Tech CSE @ NIET · 2025–2029 · CGPA 8.5",
+  education: "B.Tech CSE @ NIET · 2025–2029 · ",
   builds: ["web apps", "Android apps", "things with wires and sensors"],
   proudestShip: "launchfolio.tech — live on a real domain, with real users",
   currentQuest: "convincing Android that a web dev can be trusted 📱 (Jetpack Compose)",
