@@ -4,6 +4,7 @@
 
 **Second-year CSE student who'd rather ship a real product than finish another tutorial.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF4A11?style=for-the-badge&logo=vercel&logoColor=white)](https://dhairya-portfolio.pages.dev)
 [![LaunchFolio](https://img.shields.io/badge/launchfolio.tech-LIVE-2ea44f?style=for-the-badge&logo=rocket&logoColor=white)](https://launchfolio.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhairya--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-kumar-a77b2b35b)
 [![Email](https://img.shields.io/badge/Email-gdhairya29-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdhairya29@gmail.com)
