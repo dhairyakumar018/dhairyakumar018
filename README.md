@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhairya+%F0%9F%91%8B;I+ship+products%2C+not+just+repos;Full-stack+%C2%B7+AI+%C2%B7+Android+%C2%B7+Arduino" alt="Hi, I'm Dhairya — I ship products, not just repos" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhairya+%F0%9F%91%8B;I+ship+products%2C+not+just+repos;Full-stack+%C2%B7+AI+%C2%B7+Android+%C2%B7+Arduino" alt="Hi, I'm Dhairya â€” I ship products, not just repos" />
 
 **Second-year CSE student who'd rather ship a real product than finish another tutorial.**
 
@@ -15,26 +15,26 @@
 
 ```js
 const dhairya = {
-  education: "B.Tech CSE @ NIET · 2025–2029 · ",
+  education: "B.Tech CSE @ NIET Â· 2025â€“2029 Â· ",
   builds: ["web apps", "Android apps", "things with wires and sensors"],
-  proudestShip: "launchfolio.tech — live on a real domain, with real users",
-  currentQuest: "convincing Android that a web dev can be trusted 📱 (Jetpack Compose)",
-  funFact: "my Arduino can spot a fire before you can say 'is something burning?' 🔥",
+  proudestShip: "launchfolio.tech â€” live on a real domain, with real users",
+  currentQuest: "convincing Android that a web dev can be trusted ðŸ“± (Jetpack Compose)",
+  funFact: "my Arduino can spot a fire before you can say 'is something burning?' ðŸ”¥",
 };
 ```
 
-## 🚢 Things I've shipped
+## ðŸš¢ Things I've shipped
 
 | Project | What it does | Built with | Status |
 |---------|--------------|------------|--------|
-| **[LaunchFolio](https://launchfolio.tech)** | AI resume & portfolio builder — fill a form, get a polished site + one-click PDF | Node.js · Cloudflare Pages · D1 | 🟢 **Live** |
-| **[Community Hero](https://community-hero-1014571245061.asia-southeast1.run.app/)** ([code](https://github.com/dhairyakumar018/Community__Hero)) | AI civic platform — report local issues, auto-routed to the right municipal desk, real-time maps | TypeScript · Google Cloud Run | 🟢 **Live** |
-| **[VisionTrack](https://github.com/dhairyakumar018/CodeAlpha_VisionTrack)** | Real-time object detection & tracking — YOLOv8 + Deep SORT with a 3D dashboard and CSV export | Python · Flask · OpenCV · Three.js | ✅ Done |
-| **[LexiFlux](https://github.com/dhairyakumar018/CodeAlpha_Language_Translation_Tool)** | AI translation suite — auto language detection, native-accent text-to-speech, translation history | React · TypeScript · Express · Gemini API | ✅ Done |
-| **Fire Detection System** | Arduino + IR flame sensors, ~95% detection accuracy, buzzer + LED alerts | C++ · Arduino Uno | ✅ Works (tested carefully) |
-| **[AXiS](https://github.com/dhairyakumar018/AXiS)** | An AI "operating layer" — persistent memory, vision, voice, IoT hooks. The big one. | Electron · FastAPI · Ollama · LangChain | 🧭 Designing |
+| **[LaunchFolio](https://launchfolio.tech)** | AI resume & portfolio builder â€” fill a form, get a polished site + one-click PDF | Node.js Â· Cloudflare Pages Â· D1 | ðŸŸ¢ **Live** |
+| **[Community Hero](https://community-hero-1014571245061.asia-southeast1.run.app/)** ([code](https://github.com/dhairyakumar018/Community__Hero)) | AI civic platform â€” report local issues, auto-routed to the right municipal desk, real-time maps | TypeScript Â· Google Cloud Run | ðŸŸ¢ **Live** |
+| **[VisionTrack](https://github.com/dhairyakumar018/CodeAlpha_VisionTrack)** | Real-time object detection & tracking â€” YOLOv8 + Deep SORT with a 3D dashboard and CSV export | Python Â· Flask Â· OpenCV Â· Three.js | âœ… Done |
+| **[LexiFlux](https://github.com/dhairyakumar018/CodeAlpha_Language_Translation_Tool)** | AI translation suite â€” auto language detection, native-accent text-to-speech, translation history | React Â· TypeScript Â· Express Â· Gemini API | âœ… Done |
+| **Fire Detection System** | Arduino + IR flame sensors, ~95% detection accuracy, buzzer + LED alerts | C++ Â· Arduino Uno | âœ… Works (tested carefully) |
+| **[AXiS](https://github.com/dhairyakumar018/AXiS)** | An AI "operating layer" â€” persistent memory, vision, voice, IoT hooks. The big one. | Electron Â· FastAPI Â· Ollama Â· LangChain | ðŸ§­ Designing |
 
-## 🧰 Toolbox
+## ðŸ§° Toolbox
 
 **Daily drivers**
 
@@ -44,23 +44,23 @@ const dhairya = {
 
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,ts,java,cpp,arduino" alt="Kotlin, Android Studio, TypeScript, Java, C++, Arduino" />
 
-## 🎯 Currently
+## ðŸŽ¯ Currently
 
-- 📱 Deep in **Android with Jetpack Compose** — Google Android Basics certified
-- 🏆 Built and battled at **Innovate X NIET Hackathon 2026**
-- 📊 Completed the **Deloitte data analytics job simulation** (Forage)
+- ðŸ“± Deep in **Android with Jetpack Compose** â€” Google Android Basics certified
+- ðŸ† Built and battled at **Innovate X NIET Hackathon 2026**
+- ðŸ“Š Completed the **Deloitte data analytics job simulation** (Forage)
 
-## 📈 The numbers
+## ðŸ“ˆ The numbers
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dhairyakumar018&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhairyakumar018&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-smoky-sigma-60.vercel.app/api?username=dhairyakumar018&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
+  <img height="165" src="https://github-readme-stats-smoky-sigma-60.vercel.app/api?username=dhairyakumar018&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhairyakumar018&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhairyakumar018&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=6" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-smoky-sigma-60.vercel.app/api/top-langs/?username=dhairyakumar018&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6">
+  <img height="165" src="https://github-readme-stats-smoky-sigma-60.vercel.app/api/top-langs/?username=dhairyakumar018&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=6" alt="Top languages">
 </picture>
 
 <picture>
@@ -70,7 +70,7 @@ const dhairya = {
 
 </div>
 
-## 🕹️ Pac-Man eats my commits
+## ðŸ•¹ï¸ Pac-Man eats my commits
 
 <div align="center">
 
@@ -79,6 +79,6 @@ const dhairya = {
   <img src="https://raw.githubusercontent.com/dhairyakumar018/dhairyakumar018/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph animation">
 </picture>
 
-<sub>⚡ This README updates itself — Pac-Man feeds daily via GitHub Actions.</sub>
+<sub>âš¡ This README updates itself â€” Pac-Man feeds daily via GitHub Actions.</sub>
 
 </div>
