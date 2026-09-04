@@ -28,6 +28,7 @@ const dhairya = {
 | Project | What it does | Built with | Status |
 |---------|--------------|------------|--------|
 | **[LaunchFolio](https://launchfolio.tech)** | AI resume & portfolio builder â€” fill a form, get a polished site + one-click PDF | Node.js Â· Cloudflare Pages Â· D1 | ðŸŸ¢ **Live** |
+| **[RAG Pipeline](https://github.com/dhairyakumar018/Rag-Pipeline)** | AI document Q&A — upload PDFs, ask questions, get answers grounded in your own docs using vector search | Python · FastAPI · ChromaDB · Gemini API | ✅ Done |
 | **[Community Hero](https://community-hero-1014571245061.asia-southeast1.run.app/)** ([code](https://github.com/dhairyakumar018/Community__Hero)) | AI civic platform â€” report local issues, auto-routed to the right municipal desk, real-time maps | TypeScript Â· Google Cloud Run | ðŸŸ¢ **Live** |
 | **[VisionTrack](https://github.com/dhairyakumar018/CodeAlpha_VisionTrack)** | Real-time object detection & tracking â€” YOLOv8 + Deep SORT with a 3D dashboard and CSV export | Python Â· Flask Â· OpenCV Â· Three.js | âœ… Done |
 | **[LexiFlux](https://github.com/dhairyakumar018/CodeAlpha_Language_Translation_Tool)** | AI translation suite â€” auto language detection, native-accent text-to-speech, translation history | React Â· TypeScript Â· Express Â· Gemini API | âœ… Done |
@@ -82,3 +83,4 @@ const dhairya = {
 <sub>âš¡ This README updates itself â€” Pac-Man feeds daily via GitHub Actions.</sub>
 
 </div>
+
